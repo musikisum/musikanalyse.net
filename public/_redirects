@@ -132,5 +132,4 @@
 # ── Sonstige bekannte Weiterleitungen ──────────────────────────────────────
 /entdecken/  https://openmusic.academy/docs/cgskQbFN7fMU2juAo9zFUN/  301
 
-# ── Alle anderen URLs → Startseite ─────────────────────────────────────────
-/*  /  301
+# Hinweis: unbekannte URLs → Cloudflare 404 (kein Catch-All, würde Loop erzeugen)
