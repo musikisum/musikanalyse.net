@@ -1,0 +1,10 @@
+node_modules/
+build/
+assets/*.xcf
+assets/*.sla*
+assets/*.psd
+assets/*.wav
+.vscode/
+*.mp4
+.mscbackup/*
+_status/
